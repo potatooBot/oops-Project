@@ -68,7 +68,7 @@ void login()
         input.close();
         if(count==1)
         {
-                cout<<"\nHello"<<user<<"\nLOGIN SUCESS\nWe're glad that you're here.\nThanks for logging in\n";
+                cout<<"\nHello "<<user<<"\nLOGIN SUCESS\nWe're glad that you're here.\nThanks for logging in\n";
                 cin.get();
                 cin.get();
                 main();
